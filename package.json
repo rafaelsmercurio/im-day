@@ -1,0 +1,22 @@
+{
+  "name": "im-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelsmercurio/im-day.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelsmercurio/im-day/issues"
+  },
+  "homepage": "https://github.com/rafaelsmercurio/im-day#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
